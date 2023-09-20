@@ -1,2 +1,2 @@
-# samniels.github.io
-Description
+# Samniels' Homepage
+This is pretty cool
